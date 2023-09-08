@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H29hKFsqCikxTQTPplSeZwGJfwWclGVysfbUc6gJwLs=",
+  "Source": "Rest_server",
+  "BasePath": "_content/Rest_server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

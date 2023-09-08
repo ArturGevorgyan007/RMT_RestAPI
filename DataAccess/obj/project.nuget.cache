@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Zlb6SJnrTaZ2Nci2KBUiLMS8jH0mAkzMAxoBGhTgBMyXXQ7IVsmbRbBLOFO2QXQfb1IYu5eYJCFW3QPL0x4PA==",
+  "success": true,
+  "projectFilePath": "C:\\Revature\\ArturGevorgyan007\\Rest_server\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\17473\\.nuget\\packages\\serilog\\3.0.1\\serilog.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Revature\ArturGevorgyan007\Rest_server\Model\bin\Debug\net7.0\Model.deps.json
+C:\Revature\ArturGevorgyan007\Rest_server\Model\bin\Debug\net7.0\Model.dll
+C:\Revature\ArturGevorgyan007\Rest_server\Model\bin\Debug\net7.0\Model.pdb
+C:\Revature\ArturGevorgyan007\Rest_server\Model\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+C:\Revature\ArturGevorgyan007\Rest_server\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\ArturGevorgyan007\Rest_server\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+C:\Revature\ArturGevorgyan007\Rest_server\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+C:\Revature\ArturGevorgyan007\Rest_server\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+C:\Revature\ArturGevorgyan007\Rest_server\Model\obj\Debug\net7.0\Model.dll
+C:\Revature\ArturGevorgyan007\Rest_server\Model\obj\Debug\net7.0\refint\Model.dll
+C:\Revature\ArturGevorgyan007\Rest_server\Model\obj\Debug\net7.0\Model.pdb
+C:\Revature\ArturGevorgyan007\Rest_server\Model\obj\Debug\net7.0\ref\Model.dll
