@@ -507,11 +507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Revature\\ArturGevorgyan007\\Rest_server\\Rest_server.csproj",
+      "projectUniqueName": "C:\\Revature\\ArturGevorgyan007\\RMT_RestAPI\\Rest_server.csproj",
       "projectName": "Rest_server",
-      "projectPath": "C:\\Revature\\ArturGevorgyan007\\Rest_server\\Rest_server.csproj",
+      "projectPath": "C:\\Revature\\ArturGevorgyan007\\RMT_RestAPI\\Rest_server.csproj",
       "packagesPath": "C:\\Users\\17473\\.nuget\\packages\\",
-      "outputPath": "C:\\Revature\\ArturGevorgyan007\\Rest_server\\obj\\",
+      "outputPath": "C:\\Revature\\ArturGevorgyan007\\RMT_RestAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

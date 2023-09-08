@@ -18,7 +18,7 @@ public class CustomerController : ControllerBase
         _logger = logger;
     }
 
-    [HttpGet(Name = "GetCustomer")]
+    [HttpGet("/GetCustomer")]
     public IEnumerable<Customer> Get()
     {
         return _data.GetAllCustomers();
@@ -27,6 +27,6 @@ public class CustomerController : ControllerBase
     [HttpPost]
     public ActionResult<Customer> Create(Customer[] customerToCreate)
     {
-        return Created("/addcustomers", _data.CreateNewCustomer(customerToCreate));
+        return Created("/AddCustomers", _data.CreateNewCustomer(customerToCreate));
     }
 }

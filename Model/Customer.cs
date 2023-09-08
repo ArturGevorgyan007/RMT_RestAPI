@@ -11,7 +11,7 @@ public class Customer
 
     [Range(18, Int32.MaxValue,ErrorMessage = "Age must be greater than 18")]
     [Required(ErrorMessage = "Age is required")]
-    public int age { get; set; }
+    public int age { get; set; } = 0;
 
     [Required(ErrorMessage = "Id is required")]
     public int id { get; set; }
